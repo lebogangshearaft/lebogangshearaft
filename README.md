@@ -1,7 +1,7 @@
 # 👋 Hello everyone, I’m Mavhungu lebogang shearaft
 
 ## About Me
-I am a final-year IT student with a strong passion for software development and engineering. I have a solid foundation in programming,Front-end development  still enroling to Back-end to become a full-stack Engineer, and IT expertise, and I am eager to gain hands-on experience in the tech industry.
+I am a final-year Bachelor of science in IT student with a strong passion for software development and engineering. I have a solid foundation in programming,Front-end development  still enroling to Back-end to become a full-stack Engineer, and IT expertise, and I am eager to gain hands-on experience in the tech industry.
 
 ## 👀 I’m interested in...
 - Software development and engineering
