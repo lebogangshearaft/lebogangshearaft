@@ -23,7 +23,7 @@ I am a final-year Bachelor of science in IT student with a strong passion for so
 ## 📫 How to reach me...
 - 📞 Phone: 064 848 1794
 - ✉️ Email: shearlerbow@gmail.com
-- 🌐 LinkedIn: [lebogangshearaft](https://www.linkedin.com/in/lebogangshearaft)
+- 🌐 LinkedIn: [lebogangshearaft](https://www.linkedin.com/in/lebogang-shearaft/)
 
 ## 😄 Pronouns: 
 - everyone can pronouns me as she
